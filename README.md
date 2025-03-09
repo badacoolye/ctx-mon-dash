@@ -29,6 +29,11 @@ git clone [repository-url]
 pip install -r requirements.txt
 ```
 
+2. Clone environment file:
+```bash
+cp env.example .env
+```
+
 ## Usage
 
 1. Run the Streamlit application:
