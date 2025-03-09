@@ -25,9 +25,11 @@ git clone https://github.com/badacoolye/ctx-mon-dash.git
 
 cd ctx-mon-dash
 ```
+
 2. Create Python virtual environment:
 ```bash
 python -m venv .venv
+```
 
 3. Activate Python virtual environment:
 ```bash
