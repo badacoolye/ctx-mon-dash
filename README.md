@@ -21,15 +21,20 @@ This Streamlit-based dashboard provides comprehensive insights into applications
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/badacoolye/ctx-mon-dash.git
+cd ctx-mon-dash
+```
+2. Create Python virtual environment:
+```bash
+python -m venv .venv
 ```
 
-2. Install required packages:
+3. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Clone environment file:
+4. Clone environment file:
 ```bash
 cp env.example .env
 ```
