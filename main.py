@@ -390,12 +390,12 @@ def create_summary_table(df, group_column, title):
 
 def main():
     st.set_page_config(
-        page_title="Monitor Data Analysis",
+        page_title="Citrix Monitor Data Analysis",
         page_icon="📊",
         layout="wide"
     )
 
-    st.title("Welcome to Monitor Data Analysis Dashboard")
+    st.title("Welcome to Citrix Monitor Data Analysis Dashboard")
     st.markdown("This dashboard provides comprehensive insights into your applications and desktop groups usage patterns.")
     
     st.header("Available Reports")
