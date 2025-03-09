@@ -29,17 +29,19 @@ cd ctx-mon-dash
 ```bash
 python -m venv .venv
 
+3. Activate Python virtual environment:
+```bash
 source .venv/bin/activate # MacOS
 
 .\.venv\Scripts\activate #Windows Pwsh
 ```
 
-3. Install required packages:
+4. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Clone environment file:
+5. Clone environment file:
 ```bash
 cp env.example .env
 ```
