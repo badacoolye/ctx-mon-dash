@@ -54,4 +54,4 @@ The dashboard provides CSV export functionality for:
 Feel free to submit issues and enhancement requests.
 
 ## License
-TBD
+MIT License
