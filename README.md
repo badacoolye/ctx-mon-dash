@@ -1,4 +1,4 @@
-# Citrix Monitor Data Analysis Dashboard
+<h1 align="center">Citrix Monitor Data Analysis Dashboard</h1>
 ![Alt text](gui.png)
 ## Overview
 This Streamlit-based dashboard provides comprehensive insights into applications and desktop groups usage patterns. It visualizes monitoring data with interactive charts and downloadable reports.
