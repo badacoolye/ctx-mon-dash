@@ -30,6 +30,7 @@ cd ctx-mon-dash
 python -m venv .venv
 
 source .venv/bin/activate # MacOS
+
 .\.venv\Scripts\activate #Windows Pwsh
 ```
 
