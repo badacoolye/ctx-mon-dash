@@ -28,6 +28,9 @@ cd ctx-mon-dash
 2. Create Python virtual environment:
 ```bash
 python -m venv .venv
+
+source .venv/bin/activate # MacOS
+.\.venv\Scripts\activate #Windows Pwsh
 ```
 
 3. Install required packages:
