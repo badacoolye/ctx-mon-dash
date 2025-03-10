@@ -2,7 +2,7 @@
 <p align="center"><img src="gui.png"/p>
 
 ## Overview
-This Streamlit-based Citrix Monitor Data Analysis Dashboard provides comprehensive insights into Citrix applications and desktop groups usage patterns. It visualizes monitoring data with interactive and downloadabl charts.
+This Streamlit-based Citrix Monitor Data Analysis Dashboard provides comprehensive insights into Citrix applications and desktop groups usage patterns. It visualizes monitoring data with interactive and downloadable charts.
 
 ## Features
 - **Date and Time Range Selection**: Flexible data filtering
